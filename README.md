@@ -13,7 +13,7 @@
 
 ## A Culture of Customer Obsession
 
-*  Great Engineers are driven by the customer's needs and wants as the top priority in decision-making and what engineers deliver. 
+* Great Engineers are driven by the customer's needs and wants as the top priority in decision-making and what engineers deliver. 
 * Great Engineers expect to lead and be led. In the absence of orders engineers will take charge, lead your teammates and accomplish the mission. Great Engineers lead by example in all situations. 
 * Exceptional candidates strive to build long-term relationships with customers based on trust, and deliver each and every day, they go above and beyond to deliver what is expected.  
 * Deep understanding of the customer and their journey, including pain points and opportunities for improvement are critical to being a great engineer at Slower.
